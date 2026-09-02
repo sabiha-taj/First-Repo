@@ -1,1 +1,2 @@
 This is a test file created to test the git pull command
+Adding a new file to test the conflict 
